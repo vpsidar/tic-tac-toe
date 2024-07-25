@@ -30,6 +30,7 @@ const main = async () => {
             
     //     }
     // }
+    console.log("ths")
     rl.close();
     console.log('Dimension ', dimension)
     console.log(players);
